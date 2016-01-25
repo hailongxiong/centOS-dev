@@ -1,2 +1,10 @@
 This file will write some log for creater information
 username: henry xiong
+
+The files:
+    main.cc operation.h operationAdd.h operation.Sub operationMul.h 
+    operationDiv.h operationFactory.h
+
+The function:
+    test the sample factory model.
+
